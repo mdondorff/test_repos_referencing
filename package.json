@@ -1,8 +1,8 @@
 {
-	"name": "new_subpackages",
-	"description": "A minimal D application.",
-	"copyright": "Copyright © 2014, Dodo",
-	"authors": ["Dodo"],
+	"name": "test_repos_referencing",
+	"description": "Test repository for dub development.",
+	"copyright": "Copyright © 2014, mdondorff",
+	"authors": ["mdondorff"],
 	"dependencies": {
 		"test_repos:test_library": "~master"
 	}
