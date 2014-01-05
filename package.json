@@ -1,0 +1,9 @@
+{
+	"name": "new_subpackages",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2014, Dodo",
+	"authors": ["Dodo"],
+	"dependencies": {
+		"test_repos:test_library": "~master"
+	}
+}
